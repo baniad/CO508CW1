@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"228","Source":"Form","Properties":{"$Name":"Splash","$Type":"Form","$Version":"31","ActionBar":"True","AlignHorizontal":"3","AlignVertical":"2","AppName":"SSApp","BackgroundImage":"bibury-5073407_640.jpg","CloseScreenAnimation":"none","OpenScreenAnimation":"none","ScreenOrientation":"sensor","Title":"Splash","TitleVisible":"False","Uuid":"0","$Components":[{"$Name":"Slider1","$Type":"Slider","$Version":"2","ColorLeft":"&HFFFFFFFF","ColorRight":"&HFFFFFFFF","Width":"-1050","MaxValue":"100","MinValue":"0","ThumbEnabled":"False","ThumbPosition":"0","Uuid":"1686746571"},{"$Name":"Clock1","$Type":"Clock","$Version":"4","TimerInterval":"30","Uuid":"-81971969"}]}}
+|#
